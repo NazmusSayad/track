@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@reduxjs/toolkit": "latest",
-    "cords-distance": "^0.0.0",
+    "cords-distance": "^1.0.1",
     "css-reset-plus": "latest",
     "error-boundary-react": "latest",
     "get-classnames": "latest",

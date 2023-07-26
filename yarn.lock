@@ -787,10 +787,10 @@ convert-source-map@^1.7.0:
   resolved "https://registry.yarnpkg.com/convert-source-map/-/convert-source-map-1.9.0.tgz#7faae62353fb4213366d0ca98358d22e8368b05f"
   integrity sha512-ASFBup0Mz1uyiIjANan1jzLQami9z1PoYSZCiiYW2FczPbenXc45FZdBZLzOT+r6+iciuEModtmCti+hjaAk0A==
 
-cords-distance@^0.0.0:
-  version "0.0.0"
-  resolved "https://registry.yarnpkg.com/cords-distance/-/cords-distance-0.0.0.tgz#f313860543686a05a485dde664329e3bbe30c3a2"
-  integrity sha512-/FBfl68B9m2a2Rilt/FNycOj4lvijIK4THHWCdvR7k98da3OhubLCq2ga2LZTcN171TGzCAimzTzDZkPW3xOpg==
+cords-distance@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/cords-distance/-/cords-distance-1.0.1.tgz#80c70f52c3d7e858df172a805716df498ec11391"
+  integrity sha512-Qa9rcAHEApUC4Mf69N6rncO3HRM8Jy6GU2tqWK3t/Pb1jnD9O3YYHpaxA1G2uDSF+phraZkIszUZqY8j2Y7bbQ==
 
 cosmiconfig@^7.0.0:
   version "7.1.0"
